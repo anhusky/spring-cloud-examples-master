@@ -30,6 +30,7 @@ Spring Cloud使用的各种示例，以最简单、最实用为标准
 
 学习系列：
 
+
 - [springcloud(一)：大话Spring Cloud](http://www.ityouknow.com/springcloud/2017/05/01/simple-springcloud.html)
 - [springcloud(二)：注册中心Eureka](http://www.ityouknow.com/springcloud/2017/05/10/springcloud-eureka.html)
 - [springcloud(三)：服务提供与调用](http://www.ityouknow.com/springcloud/2017/05/12/eureka-provider-constomer.html)
@@ -51,12 +52,9 @@ Spring Cloud使用的各种示例，以最简单、最实用为标准
 - **[从架构演进的角度聊聊Spring Cloud都做了些什么？](http://www.ityouknow.com/springcloud/2017/11/02/framework-and-springcloud.html)**   
 - **[阿里Dubbo疯狂更新，关Spring Cloud什么事？](http://www.ityouknow.com/springcloud/2017/11/20/dubbo-update-again.html)**   
 
-> 如果大家想了解关于springcloud的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-cloud-examples/issues)的形式反馈给我，我后续来完善。
+源码根据纯洁的微笑博客 中的 改编稍微修改了，如有侵权，请找：
+QQ： 270698050
 
- 
- 关注公众号：纯洁的微笑，回复"springboot"进群交流
-
-![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
-
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526364412666&di=78c947d28cc038ae6ce9f379b10fc991&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180217%2F01f4e2a6b6ba4cb2a26d9cfe14c44a22.gif)
 
 
