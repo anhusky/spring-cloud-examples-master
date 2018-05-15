@@ -9,13 +9,13 @@ spring:
         git:
           uri: https://github.com/liupenghao1205/spring-cloud-examples-master    # 配置git仓库的地址
           search-paths: config-repo                     # git仓库地址下的相对地址，可以配置多个，用,分割。
-          username: liupenghao1205                      # git仓库的账号
-          password: 741852963qQ
+          username:                       # git仓库的账号
+          password:
     bus:
       trace:
         enabled: true
   rabbitmq:
-    host: 47.94.137.153
+    host:
     port: 5672
     username: admin
     password: StrongPassword
